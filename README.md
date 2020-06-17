@@ -1,5 +1,5 @@
 # GameboyMIDIPlayer
 MIDI Instrument that plays Gameboy Samples
 
-# If you want to download the complete Xcode project for this:
-[Full Project]()
+# The Complete Xcode project:
+[Download](https://github.com/emurray2/GameboyMIDIPlayer/releases/download/0.5/GameboyMIDIPlayer.zip)
